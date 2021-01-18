@@ -8,3 +8,9 @@ YouTube Tutorials:
 https://www.youtube.com/watch?reload=9&v=SLB_c_ayRMo&t=4253s&ab_channel=freeCodeCamp.org
 
 https://www.youtube.com/watch?v=5hycyr-8EKs&t=876s&ab_channel=NetworkChuck
+
+
+<details>
+<summary>What is Terraform?</summary><br><b>
+- Terraform is a cross cloud IaaC opensource tool
+</b></details>
