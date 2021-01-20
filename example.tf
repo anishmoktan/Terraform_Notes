@@ -33,7 +33,7 @@ resource "aws_subnet" "Subnet_1" {
 }
 
 resource "aws_s3_bucket" "test" {
-  bucket = "terraformbucket109anish"
+  bucket = "terraformbucket10anish"
   acl    = "private"
 
   tags = {
